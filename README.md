@@ -80,15 +80,15 @@ Example request:
 }
 ```
 
-## 🧠 AI Skills Showcase
+## 🧠 Technical Implementation
 
-OpenPerplexity demonstrates several advanced AI integration techniques:
+OpenPerplexity implements several advanced techniques:
 
-1. **Prompt Engineering**: The application implements sophisticated prompt engineering to optimize search results and extract relevant information
-2. **API Chaining**: Combines multiple AI capabilities into a cohesive workflow
-3. **Parameter Optimization**: Fine-tunes search parameters to balance accuracy and performance
-4. **Response Processing**: Intelligent parsing and structuring of AI-generated content
-5. **Context Management**: Effectively manages context for more relevant search results
+1. **Perplexity API Integration**: Seamless integration with Perplexity's powerful search capabilities
+2. **Custom Search Parameters**: Flexible parameter configuration for optimized results
+3. **Web Content Processing**: Efficient extraction and transformation of web content
+4. **Response Handling**: Structured processing of complex API responses
+5. **Django REST Architecture**: Clean separation of concerns with a well-structured API design
 
 ## 📖 Open Source Philosophy
 
@@ -120,4 +120,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-Made with ❤️ by [Your Name] | Connect with me on [LinkedIn](https://linkedin.com/in/yourusername)
+Made with ❤️ by Anas
